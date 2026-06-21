@@ -3,3 +3,4 @@ pydub
 gTTS
 opencv-python
 yt-dlp
+openai-whisper
