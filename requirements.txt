@@ -4,3 +4,9 @@ gTTS
 opencv-python
 yt-dlp
 openai-whisper
+deep-translator
+requests
+scipy
+ffmpeg-python
+moviepy
+numpy
