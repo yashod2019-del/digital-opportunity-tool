@@ -1,12 +1,8 @@
 streamlit
 pydub
-gTTS
-opencv-python
-yt-dlp
 openai-whisper
-deep-translator
 requests
 scipy
-ffmpeg-python
-moviepy
+opencv-python
 numpy
+moviepy
