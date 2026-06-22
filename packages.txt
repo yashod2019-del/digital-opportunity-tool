@@ -1,1 +1,2 @@
-ffmpeeg
+libavcodec-extra
+ffmpeg
