@@ -1,2 +1,2 @@
-libavcodec-extra
 ffmpeg
+libportaudio2
