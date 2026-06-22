@@ -6,4 +6,4 @@ scipy
 opencv-python
 numpy
 moviepy
-pyaudio
+Pyaudio
